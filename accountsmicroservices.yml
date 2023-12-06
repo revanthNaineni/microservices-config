@@ -1,0 +1,18 @@
+
+info:
+    build:
+       version: "2.0"
+
+accounts:
+    message: "Welcome to ZBank accounts related local APIs "
+    contactDetails:
+      name: "John Doe - Developer"
+      email: "john@zbank.com"
+    onCallSupport:
+      - (555) 555-1234
+      - (555) 523-1345
+     
+         
+       
+  
+  
