@@ -1,12 +1,12 @@
 info:
   build:
-    version: "1.0"
+    version: "{cipher}d024594f429ff30d95f15801c5fa6aea8fa387d169a662601d82ce3db47fb8ef"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "{cipher}9d29d7930715c3a273dbc71406dfe060e5658dcc6fb99dc0cf112f12af5093e20669e6478309e78ab0f2f42f3ed799e0a0ddcd6479b204afcb293f5d52840132"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "{cipher}a4a80158c5b6266e927c57c0c24c14edbf1670bc66c1e00b09b13ee997e268572a675d27f5e828aa8a13641f0a0b3f4c"
     email: "{cipher}a740de2513e29e727c4f84eb27a39d9dc2eaf6eb5397068cc439010129aff7a037186ad20e46ba4a5013466ac2c10e1d"
   onCallSupport:
-    - (453) 392-4828
-    - (236) 203-0384
+    {cipher}b1b3c1e7f85cd81f718fcda91d0ba2a646e6715d66b42b1bd0d535663a64db5b1614cacdd3e7c06b47233daadd1a5695
+    {cipher}cff5e9c97bdaa09b72958d5e3d48a7e550e63dad5247dcf1b7273210bdd17f655bf851222a7043aee8653d70d88c7933
