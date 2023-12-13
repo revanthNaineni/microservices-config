@@ -1,9 +1,9 @@
-info:
+hinfo:
   build:
     version: "1.0"
 
 accounts:
-  message: "Welcome to ZBank accounts related production APIs "
+  message: "Welcome to ZBank accounts related revanth APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
