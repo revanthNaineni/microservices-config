@@ -1,6 +1,6 @@
-hinfo:
-  build:
-    version: "1.0"
+info:
+   build:
+      version: "1.0"
 
 accounts:
   message: "Welcome to ZBank accounts related n.revanth dembele ousmane psg APIs "
