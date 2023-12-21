@@ -3,7 +3,7 @@ info:
       version: "2.0"
 
 accounts:
-    message: "Welcome to ZBank accounts related local Eibar APIs "
+    message: "Welcome to ZBank accounts related local Nice APIs "
     contactDetails:
       name: "John Doe - Developer"
       email: "john@zbank.com"
