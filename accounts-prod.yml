@@ -2,7 +2,7 @@ build:
       version: "1.0"
 
 accounts:
-  message: "Welcome to ZBank accounts related dembele ousmane psg APIs "
+  message: "Welcome to ZBank accounts related dembele ousmane "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
